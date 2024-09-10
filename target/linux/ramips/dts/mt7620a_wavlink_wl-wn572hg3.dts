@@ -170,7 +170,6 @@
 		status = "okay";
 		phy-handle = <&phy4>;
 		phy-mode = "rgmii";
-		mediatek,fixed-link = <1000 1 1 1>;
 	};
 
 
